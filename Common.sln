@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "NudeSolutionsDB", "NudeSolutionsDB\NudeSolutionsDB.sqlproj", "{AC61D35B-CE23-43FA-AC9E-AD9F6145EAA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaoLibrary", "DaoLibrary\DaoLibrary.csproj", "{99F1B0C7-9B9D-4874-94F1-8F007ECCB107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC61D35B-CE23-43FA-AC9E-AD9F6145EAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC61D35B-CE23-43FA-AC9E-AD9F6145EAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC61D35B-CE23-43FA-AC9E-AD9F6145EAA9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AC61D35B-CE23-43FA-AC9E-AD9F6145EAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC61D35B-CE23-43FA-AC9E-AD9F6145EAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC61D35B-CE23-43FA-AC9E-AD9F6145EAA9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{99F1B0C7-9B9D-4874-94F1-8F007ECCB107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F1B0C7-9B9D-4874-94F1-8F007ECCB107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F1B0C7-9B9D-4874-94F1-8F007ECCB107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F1B0C7-9B9D-4874-94F1-8F007ECCB107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8F09FF4-8811-431C-B871-73DA2DC81358}
+	EndGlobalSection
+EndGlobal
